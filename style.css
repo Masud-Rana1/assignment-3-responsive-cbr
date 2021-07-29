@@ -1,0 +1,51 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.header-design{
+    background-color: #264653;;
+}
+.login-button{
+    margin-right: 156px;
+} 
+.navv-bar{
+    margin-right: 100px;
+}
+.login-button{
+    background-color: #E76F51;
+    width: 91px;
+     height: 44px;
+     border-radius: 5px;
+}
+.top-text h1, h1{
+    font-weight: 600;
+    font-size: 48px;
+    margin: 20px 0;
+}
+.purchase-button{
+    background-color: #E76F51;
+    padding: 10px;
+    width: 168px;
+    margin-top: 21px;
+}
+.top-img{
+    margin-left:300px;
+    margin-top: 69px;
+    margin-bottom: 96px;
+ 
+}
+.feture-text p, .client, .card-icon{
+    color:#E76F51 ;
+}
+.fetured-bike{
+    margin-top: 120px;
+}
+.grayscle{
+    filter: grayscale(100%);
+}
+.user-name{
+    color: #23A6F0;
+}
+.faq-img{
+    width: 432px;
+}
